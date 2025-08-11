@@ -34,10 +34,7 @@
 
 ### 🧪 QA Tools & Skills
 <div align="left">
-  <img src="https://img.icons8.com/color/48/postman-api.png" height="30" alt="postman logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/cypress-test.png" height="30" alt="cypress logo" />
-  <img width="12" />
+
   <img src="https://img.icons8.com/color/48/bug.png" height="30" alt="bug tracking" />
   <img width="12" />
   <img src="https://img.icons8.com/color/48/test-passed.png" height="30" alt="test case writing" />
@@ -52,7 +49,3 @@
 </div>
 
 ---
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
